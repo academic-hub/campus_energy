@@ -9,7 +9,7 @@ The notebook can also be ran on [Google Colab](https://colab.research.google.com
 [Deepnote](https://deepnote.com/) is a nice service for cooperation, give it a try:<br>
 [<img src="https://deepnote.com/buttons/launch-in-deepnote-small.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Facademic-hub%2Fcampus_energy)
 
-A fully executed version of the dataset documentation notebook can be seen at https://data.academic.osisoft.com/nbviewer/github/academic-hub/campus_energy/blob/main/Campus_Energy_Dataset_Doc.ipynb (screenshot below)
+A fully executed version of the Quick Start notebook with an example of a CEED-like graph can be seen at https://data.academic.osisoft.com/nbviewer/github/academic-hub/campus_energy/blob/main/Campus_Energy_Dataset_Quickstart.ipynb#Example-of-CEED-like-graph (screenshot below)
 
 ![](https://academichub.blob.core.windows.net/images/ceed-like-rmi-nss-demand-kbtu.png)
 
