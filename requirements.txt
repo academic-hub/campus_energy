@@ -1,0 +1,1 @@
+ocs_academic_hub==0.99.42
