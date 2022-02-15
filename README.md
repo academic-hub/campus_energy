@@ -13,6 +13,11 @@ A fully executed version of the Quick Start notebook with an example of a CEED-l
 
 ![](https://academichub.blob.core.windows.net/images/ceed-like-rmi-nss-demand-kbtu.png)
 
+## No-code CSV Data Download
+
+Outside of Jupyter notebooks, it's possible to download CSV of building data using a simple web app at https://share.streamlit.io/academic-hub/csv-portal. A Hub account is required. 
+
+![](https://academichub.blob.core.windows.net/images/data-portal-campus-energy-rmi.png)
 
 ## Instructions for TAs
 
